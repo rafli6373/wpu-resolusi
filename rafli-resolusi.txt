@@ -1,0 +1,6 @@
+halo pak perkenalkan nama saya Rafli dari Bangkalan
+
+Resolusi saya adalah:
+- membuat front end menggunakan react
+- belajar mongo db dan vue
+- belajar python
